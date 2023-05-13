@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! ForzaDuan here. Nice to see you.👋
 
 <!--
 **ForzaDuan/ForzaDuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying on Xi'an Jiaotong university.
+- 🌱 I’m currently learning Deep Reinforcement Learning.
+- :hammer_and_pick: Python / C++ / Java
+- :thought_balloon: Ask me anything at [Discussions](https://github.com/ForzaDuan/ForzaDuan/discussions/new)!
+
+![](https://github-readme-stats.vercel.app/api?username=ForzaDuan&theme=tokyonight)

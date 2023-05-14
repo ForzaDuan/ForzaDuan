@@ -31,17 +31,17 @@ I’m Jianyu, a master student at Xi'an Jiaotong university.
 
 ---
 
-### :sparkles: [My followers](src/getTopFollowers.py)
+### :sparkles: Fellow sufferers
 
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
+      <a href="https://github.com/KezhiAdore">
+        <img src="https://avatars.githubusercontent.com/u/37324328?v=4" width="100px;" alt="wizardforcel"/>
       </a>
       <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
+      <a href="https://github.com/wizardforcel">KezhiAdore</a>
     </td>
     <td align="center">
       <a href="https://github.com/gaocegege">

@@ -26,7 +26,7 @@ I’m Jianyu, a master student at Xi'an Jiaotong university.
 - :hammer_and_pick: Python / C++ / Java
 - :thought_balloon: Ask me anything at [Discussions](https://github.com/ForzaDuan/ForzaDuan/discussions/new)!
 - :heart: [This is a photo album exhibition of my girlfriend.]()
-- 🎉 Sponsor me via Weixin/ Alipay
+- 📫 How to reach me: 1254636901@qq.com
 <!--END_SECTION:descreiption-->
 
 ---

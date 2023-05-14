@@ -1,5 +1,5 @@
 ### Hey! ForzaDuan here. Nice to see you.👋
-
+---
 <!--
 **ForzaDuan/ForzaDuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,19 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForzaDuan&theme=tokyonight&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+</picture>
+
+<!--START_SECTION:descreiption-->
+I’m Jianyu, a master student at Xi'an Jiaotong university.
 - 🔭 I’m Jianyu, a master student at Xi'an Jiaotong university.
 - 🌱 I’m currently learning Deep Reinforcement Learning.
 - :hammer_and_pick: Python / C++ / Java
 - :thought_balloon: Ask me anything at [Discussions](https://github.com/ForzaDuan/ForzaDuan/discussions/new)!
-- :heart: Sponsor me via Weixin/ Alipay
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForzaDuan&theme=tokyonight&show_icons=true">
-</picture>
+- :heart: [This is a photo album exhibition of my girlfriend]()
+- 🎉 Sponsor me via Weixin/ Alipay
+<!--END_SECTION:descreiption-->
 
+---
 
 ### :sparkles: [My followers](src/getTopFollowers.py)
 
----
 <!--START_SECTION:top-followers-->
 <table>
   <tr>

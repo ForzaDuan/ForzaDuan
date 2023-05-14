@@ -124,7 +124,7 @@ I’m Jianyu, a master student at Xi'an Jiaotong university.
     </td>
     <td align="center">
       <a href="https://github.com/Alex-Lord">
-        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Alex-Lord"/>
+        <img src="https://avatars.githubusercontent.com/u/52347538?v=4" width="100px;" alt="Alex-Lord"/>
       </a>
       <br />
       <a href="https://github.com/Alex-Lord">Bingyuan Chen</a>
@@ -141,7 +141,7 @@ I’m Jianyu, a master student at Xi'an Jiaotong university.
 
 ---
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+### :bar_chart: [Working time](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
 

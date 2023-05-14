@@ -41,7 +41,7 @@ I’m Jianyu, a master student at Xi'an Jiaotong university.
         <img src="https://avatars.githubusercontent.com/u/37324328?v=4" width="100px;" alt="wizardforcel"/>
       </a>
       <br />
-      <a href="https://github.com/wizardforcel">KezhiAdore</a>
+      <a href="https://github.com/KezhiAdore">KezhiAdore</a>
     </td>
     <td align="center">
       <a href="https://github.com/gaocegege">

@@ -38,68 +38,68 @@ I’m Jianyu, a master student at Xi'an Jiaotong university.
   <tr>
     <td align="center">
       <a href="https://github.com/KezhiAdore">
-        <img src="https://avatars.githubusercontent.com/u/37324328?v=4" width="100px;" alt="wizardforcel"/>
+        <img src="https://avatars.githubusercontent.com/u/37324328?v=4" width="100px;" alt="KezhiAdore"/>
       </a>
       <br />
       <a href="https://github.com/KezhiAdore">KezhiAdore</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      <a href="https://github.com/WonderLiu96">
+        <img src="https://avatars.githubusercontent.com/u/17374965?v=4" width="100px;" alt="WonderLiu96"/>
       </a>
       <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
+      <a href="https://github.com/WonderLiu96">WonderLiu96</a>
     </td>
     <td align="center">
-      <a href="https://github.com/losfair">
-        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
+      <a href="https://github.com/lvjin-alpha">
+        <img src="https://avatars.githubusercontent.com/u/30590441?v=4" width="100px;" alt="lvjin-alpha"/>
       </a>
       <br />
-      <a href="https://github.com/losfair">Heyang Zhou</a>
+      <a href="https://github.com/lvjin-alpha">lvjin-alpha</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Harry-Chen">
-        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
+      <a href="https://github.com/notomatoes">
+        <img src="https://avatars.githubusercontent.com/u/44357849?v=4" width="100px;" alt="notomatoes"/>
       </a>
       <br />
-      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
+      <a href="https://github.com/notomatoes">notomatoes</a>
     </td>
     <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      <a href="https://github.com/hanshuo123i">
+        <img src="https://avatars.githubusercontent.com/u/47047984?v=4" width="100px;" alt="hanshuo123i"/>
       </a>
       <br />
-      <a href="https://github.com/EndlessCheng">灵茶山艾府</a>
+      <a href="https://github.com/hanshuo123i">hanshuo123i</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
+      <a href="https://github.com/Quchangsheng">
+        <img src="https://avatars.githubusercontent.com/u/61783209?v=4" width="100px;" alt="Quchangsheng"/>
       </a>
       <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+      <a href="https://github.com/Quchangsheng">Quchangsheng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      <a href="https://github.com/GaoZiHong">
+        <img src="https://avatars.githubusercontent.com/u/48216024?v=4" width="100px;" alt="GaoZiHong"/>
       </a>
       <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+      <a href="https://github.com/GaoZiHong">GaoZiHong</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mashirozx">
-        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
+      <a href="https://github.com/OrangeCH3">
+        <img src="https://avatars.githubusercontent.com/u/71698216?v=4" width="100px;" alt="OrangeCH3"/>
       </a>
       <br />
-      <a href="https://github.com/mashirozx">Mashiro</a>
+      <a href="https://github.com/OrangeCH3">OrangeCH3</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
+      <a href="https://github.com/LeiH5180">
+        <img src="https://avatars.githubusercontent.com/u/109208671?v=4" width="100px;" alt="LeiH5180"/>
       </a>
       <br />
-      <a href="https://github.com/Ir1d">Dejia Xu</a>
+      <a href="https://github.com/LeiH5180">LeiH5180</a>
     </td>
     <td align="center">
       <a href="https://github.com/lzwjava">
@@ -190,5 +190,6 @@ I’m Jianyu, a master student at Xi'an Jiaotong university.
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
 
 ---

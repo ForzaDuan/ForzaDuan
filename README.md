@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:descreiption-->
 I’m Jianyu, a master student at Xi'an Jiaotong university.
-- 🔭 I’m Jianyu, a master student at Xi'an Jiaotong university.
-- 🌱 I’m currently learning Deep Reinforcement Learning.
+- 🔭 My major is Control engineering.
+- 🌱 I’m currently learning Deep Reinforcement Learning and Federated Learning.
 - :hammer_and_pick: Python / C++ / Java
 - :thought_balloon: Ask me anything at [Discussions](https://github.com/ForzaDuan/ForzaDuan/discussions/new)!
-- :heart: [This is a photo album exhibition of my girlfriend]()
+- :heart: [This is a photo album exhibition of my girlfriend.]()
 - 🎉 Sponsor me via Weixin/ Alipay
 <!--END_SECTION:descreiption-->
 
@@ -102,93 +102,57 @@ I’m Jianyu, a master student at Xi'an Jiaotong university.
       <a href="https://github.com/LeiH5180">LeiH5180</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lzwjava">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
+      <a href="https://github.com/nince9">
+        <img src="https://avatars.githubusercontent.com/u/84495435?v=4" width="100px;" alt="nince9"/>
       </a>
       <br />
-      <a href="https://github.com/lzwjava">Zhiwei Li</a>
+      <a href="https://github.com/nince9">nince9</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Konano">
-        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
+      <a href="https://github.com/watermelv">
+        <img src="https://avatars.githubusercontent.com/u/64120198?v=4" width="100px;" alt="watermelv"/>
       </a>
       <br />
-      <a href="https://github.com/Konano">Nano</a>
+      <a href="https://github.com/watermelv">watermelv</a>
     </td>
     <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
+      <a href="https://github.com/XqWang3">
+        <img src="https://avatars.githubusercontent.com/u/41286770?v=4" width="100px;" alt="XqWang3"/>
       </a>
       <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
+      <a href="https://github.com/XqWang3">XqWang3</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Trumeet">
-        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
+      <a href="https://github.com/Alex-Lord">
+        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Alex-Lord"/>
       </a>
       <br />
-      <a href="https://github.com/Trumeet">Yuuta Liang</a>
+      <a href="https://github.com/Alex-Lord">Bingyuan Chen</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Clansty">
-        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="Clansty"/>
+      <a href="https://github.com/Jianqy">
+        <img src="https://avatars.githubusercontent.com/u/59051895?v=4" width="100px;" alt="Jianqy"/>
       </a>
       <br />
-      <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/WBGlIl">
-        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
-      </a>
-      <br />
-      <a href="https://github.com/WBGlIl">WBGlIl</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gdut-yy">
-        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
-      </a>
-      <br />
-      <a href="https://github.com/gdut-yy">张逸扬</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cubercsl">
-        <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="cubercsl"/>
-      </a>
-      <br />
-      <a href="https://github.com/cubercsl">cubercsl</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WhaleFell">
-        <img src="https://avatars2.githubusercontent.com/u/63758849" width="100px;" alt="WhaleFell"/>
-      </a>
-      <br />
-      <a href="https://github.com/WhaleFell">落落</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Fantasy9527">
-        <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
-      </a>
-      <br />
-      <a href="https://github.com/Fantasy9527">No.142857</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tengge1">
-        <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
-      </a>
-      <br />
-      <a href="https://github.com/tengge1">tengge1</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
+      <a href="https://github.com/Jianqy">Jianqy</a>
     </td>
   </tr>
 </table>
+
+---
+
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+
+```text
+python         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   
+C++            🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   
+TeX            🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   
+Markdown       🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  
+zotero         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   
+```
+
 <!--END_SECTION:top-followers-->
 
 

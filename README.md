@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 - :hammer_and_pick: Python / C++ / Java
 - :thought_balloon: Ask me anything at [Discussions](https://github.com/ForzaDuan/ForzaDuan/discussions/new)!
 - :heart: Sponsor me via Weixin/ Alipay
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForzaDuan&theme=tokyonight&show_icons=true">
+</picture>
 
-![](https://github-readme-stats.vercel.app/api?username=ForzaDuan&theme=tokyonight)
 
 ### :sparkles: [My followers](src/getTopFollowers.py)
 

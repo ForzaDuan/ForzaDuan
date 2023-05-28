@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForzaDuan&theme=tokyonight&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ForzaDUAN&show_icons=true">
 </picture>
 
 <!--START_SECTION:descreiption-->
